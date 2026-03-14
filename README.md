@@ -23,3 +23,4 @@ https://github.com/Joao-Sepulveda04/Joao-Paulo---Banco-de-Dados/blob/main/Captur
 
 ## SOMASE e CONT.SE - AULA 13/03/2026
 https://github.com/Joao-Sepulveda04/Joao-Paulo---Banco-de-Dados/blob/main/despesa_funcao..xlsx
+https://github.com/Joao-Sepulveda04/Joao-Paulo---Banco-de-Dados/blob/main/Captura%20de%20tela%202026-03-13%20220031.png
