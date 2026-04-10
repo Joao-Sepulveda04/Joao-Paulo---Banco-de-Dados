@@ -27,7 +27,13 @@ https://github.com/Joao-Sepulveda04/Joao-Paulo---Banco-de-Dados/blob/main/Captur
 [fornecedores.xlsx](https://github.com/user-attachments/files/26316809/fornecedores.xlsx)
 <img width="1314" height="481" alt="image" src="https://github.com/user-attachments/assets/f38e2dbd-b85b-40c6-838f-d28dc82adf63" />
 
+## COMPENSAÇÃO AULAS (Feriados e Baja) - CERTIFICADO CURSO
+[Banco de Dados (Fundamentos I) - Certificado curso Aprenda Mais Gov.pdf](https://github.com/user-attachments/files/26641523/Banco.de.Dados.Fundamentos.I.-.Certificado.curso.Aprenda.Mais.Gov.pdf)
+<img width="1124" height="773" alt="image" src="https://github.com/user-attachments/assets/84f10ea4-6eaa-4242-b64f-d82e92219c0d" />
+
+
 ## SOMASES (PLANILHA DE MATRÍCULAS GOV SP) - AULA 09/04/2026
 <img width="1635" height="686" alt="image" src="https://github.com/user-attachments/assets/98e07546-9b30-4038-8d40-91859c801da4" />
+
 
 
