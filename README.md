@@ -26,3 +26,8 @@ https://github.com/Joao-Sepulveda04/Joao-Paulo---Banco-de-Dados/blob/main/despes
 https://github.com/Joao-Sepulveda04/Joao-Paulo---Banco-de-Dados/blob/main/Captura%20de%20tela%202026-03-13%20220031.png
 [fornecedores.xlsx](https://github.com/user-attachments/files/26316809/fornecedores.xlsx)
 <img width="1314" height="481" alt="image" src="https://github.com/user-attachments/assets/f38e2dbd-b85b-40c6-838f-d28dc82adf63" />
+
+## SOMASES (PLANILHA DE MATRÍCULAS GOV SP) - AULA 09/04/2026
+<img width="1635" height="686" alt="image" src="https://github.com/user-attachments/assets/98e07546-9b30-4038-8d40-91859c801da4" />
+
+
