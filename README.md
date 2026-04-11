@@ -32,8 +32,10 @@ https://github.com/Joao-Sepulveda04/Joao-Paulo---Banco-de-Dados/blob/main/Captur
 <img width="1124" height="773" alt="image" src="https://github.com/user-attachments/assets/84f10ea4-6eaa-4242-b64f-d82e92219c0d" />
 
 
-## SOMASES (PLANILHA DE MATRÍCULAS GOV SP) - AULA 09/04/2026
-<img width="1635" height="686" alt="image" src="https://github.com/user-attachments/assets/98e07546-9b30-4038-8d40-91859c801da4" />
+## SOMASES (PLANILHA DE MATRÍCULAS GOV SP) - AULA 09/04/2026 e AULA 10/04/2026
+
+<img width="1897" height="826" alt="image" src="https://github.com/user-attachments/assets/250f4acb-d400-43b4-8111-8209879fa2e1" />
+
 
 
 
