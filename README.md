@@ -33,7 +33,7 @@ https://github.com/Joao-Sepulveda04/Joao-Paulo---Banco-de-Dados/blob/main/Captur
 
 
 ## SOMASES (PLANILHA DE MATRÍCULAS GOV SP) - AULA 09/04/2026 e AULA 10/04/2026
-
+https://docs.google.com/spreadsheets/d/1FjBB0RX0oAaJ2eOrjFuUjP22nObM6NAS/edit?usp=drive_web&ouid=103750653951716860487&rtpof=true
 <img width="1897" height="826" alt="image" src="https://github.com/user-attachments/assets/250f4acb-d400-43b4-8111-8209879fa2e1" />
 
 
