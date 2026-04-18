@@ -38,7 +38,10 @@ https://docs.google.com/spreadsheets/d/1FjBB0RX0oAaJ2eOrjFuUjP22nObM6NAS/edit?us
 
 
 ## TAREFA SOMASES (PLANILHA DE SEGURANÇA GOV SP) - AULA 16/04/2026 (Em andamento..)
-[pessoas_02-2026.xlsx](https://github.com/user-attachments/files/26806381/pessoas_02-2026.xlsx)
+[pessoas_02-2026.xlsx](https://github.com/user-attachments/files/26845160/pessoas_02-2026.xlsx)
+<img width="1141" height="852" alt="image" src="https://github.com/user-attachments/assets/4a3a5e1b-a485-4e7e-920a-6fcbad5025ce" />
+
+
 
 
 
