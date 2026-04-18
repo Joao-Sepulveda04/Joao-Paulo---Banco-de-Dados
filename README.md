@@ -23,8 +23,12 @@ DOCUMENTO DO PROJETO: [Projeto de API rapida_ Entrega de vestido de casamento.do
 
 
 ## SOMASE e CONT.SE - AULA 13/03/2026
-https://github.com/Joao-Sepulveda04/Joao-Paulo---Banco-de-Dados/blob/main/despesa_funcao..xlsx
-https://github.com/Joao-Sepulveda04/Joao-Paulo---Banco-de-Dados/blob/main/Captura%20de%20tela%202026-03-13%20220031.png
+
+DESPESA FUNÇÃO
+[despesa_funcao..xlsx](https://github.com/user-attachments/files/26845245/despesa_funcao.xlsx)
+<img width="1427" height="485" alt="image" src="https://github.com/user-attachments/assets/788120f1-4bca-407c-821f-ec2598bfa144" />
+
+FORNECEDORES
 [fornecedores.xlsx](https://github.com/user-attachments/files/26316809/fornecedores.xlsx)
 <img width="1314" height="481" alt="image" src="https://github.com/user-attachments/assets/f38e2dbd-b85b-40c6-838f-d28dc82adf63" />
 
