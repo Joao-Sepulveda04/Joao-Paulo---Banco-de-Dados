@@ -18,7 +18,8 @@ DOCUMENTO DO PROJETO: [Projeto de API rapida_ Entrega de vestido de casamento.do
 [balancete_receita.xlsx](https://github.com/user-attachments/files/25808340/balancete_receita.xlsx)
 
 ## MELHORIA DE GRÁFICO - AULA 12/03/2026
-https://github.com/Joao-Sepulveda04/Joao-Paulo---Banco-de-Dados/blob/main/Captura%20de%20tela%202026-03-13%20204856.png
+<img width="1478" height="537" alt="image" src="https://github.com/user-attachments/assets/996f6d67-60ca-497f-9dd9-d7ebc03a60d1" />
+
 
 
 ## SOMASE e CONT.SE - AULA 13/03/2026
