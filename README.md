@@ -42,10 +42,17 @@ https://docs.google.com/spreadsheets/d/1FjBB0RX0oAaJ2eOrjFuUjP22nObM6NAS/edit?us
 <img width="1897" height="826" alt="image" src="https://github.com/user-attachments/assets/250f4acb-d400-43b4-8111-8209879fa2e1" />
 
 
-## TAREFA SOMASES (PLANILHA DE SEGURANÇA GOV SP) - AULA 16/04/2026 (Em andamento..)
+## TAREFA SOMASES (PLANILHA DE SEGURANÇA GOV SP) - AULA 16/04/2026
 [pessoas_02-2026.xlsx](https://github.com/user-attachments/files/26845160/pessoas_02-2026.xlsx)
 <img width="1141" height="852" alt="image" src="https://github.com/user-attachments/assets/4a3a5e1b-a485-4e7e-920a-6fcbad5025ce" />
 
+
+(Visto GitHub)
+
+
+## CERTIFICADO DO CURSO ANÁLISES DE DADOS POWER BI - Aula 17/04/2026
+[Certificate_764931_102_bi7at.pdf](https://github.com/user-attachments/files/27031058/Certificate_764931_102_bi7at.pdf)
+<img width="1006" height="702" alt="image" src="https://github.com/user-attachments/assets/13b91a6b-22e0-4b15-8806-66cc4fe7fa10" />
 
 
 
