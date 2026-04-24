@@ -56,7 +56,7 @@ https://docs.google.com/spreadsheets/d/1FjBB0RX0oAaJ2eOrjFuUjP22nObM6NAS/edit?us
 
 
 ## INTRODUÇÃO AO POWER BI (DESPESA POR FUNÇÃO SJC) - AULA 23/04/2026
-
+https://github.com/Joao-Sepulveda04/Joao-Paulo---Banco-de-Dados/blob/main/Despesa%20por%20fun%C3%A7%C3%A3o%20SJC%202026%20-%20Aula%2023-04-26.pbix
 <img width="1919" height="1015" alt="image" src="https://github.com/user-attachments/assets/042563b4-1a71-4052-9e9b-0176b723caff" />
 
 
