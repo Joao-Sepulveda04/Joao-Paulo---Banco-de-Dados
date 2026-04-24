@@ -50,10 +50,13 @@ https://docs.google.com/spreadsheets/d/1FjBB0RX0oAaJ2eOrjFuUjP22nObM6NAS/edit?us
 (Visto GitHub)
 
 
-## CERTIFICADO DO CURSO ANÁLISES DE DADOS POWER BI - Aula 17/04/2026
+## CERTIFICADO DO CURSO ANÁLISES DE DADOS POWER BI - AULA 17/04/2026
 [Certificate_764931_102_bi7at.pdf](https://github.com/user-attachments/files/27031058/Certificate_764931_102_bi7at.pdf)
 <img width="1006" height="702" alt="image" src="https://github.com/user-attachments/assets/13b91a6b-22e0-4b15-8806-66cc4fe7fa10" />
 
 
+## INTRODUÇÃO AO POWER BI (DESPESA POR FUNÇÃO SJC) - AULA 23/04/2026
+
+<img width="1919" height="1015" alt="image" src="https://github.com/user-attachments/assets/042563b4-1a71-4052-9e9b-0176b723caff" />
 
 
