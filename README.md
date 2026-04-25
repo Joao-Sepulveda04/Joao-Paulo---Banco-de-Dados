@@ -63,3 +63,9 @@ https://github.com/Joao-Sepulveda04/Joao-Paulo---Banco-de-Dados/tree/main/Despes
 <img width="1919" height="1015" alt="image" src="https://github.com/user-attachments/assets/042563b4-1a71-4052-9e9b-0176b723caff" />
 
 
+## DADOS ABERTOS SP (MATRÍCULAS) NO POWER BI - AULA 24/04/2026
+https://github.com/Joao-Sepulveda04/Joao-Paulo---Banco-de-Dados/blob/main/Matriculas%20-%20Dados%20abertos%20SP.pbix
+
+<img width="1919" height="1022" alt="image" src="https://github.com/user-attachments/assets/be74c119-68fd-4901-9d72-c1a7dbf3c201" />
+
+
