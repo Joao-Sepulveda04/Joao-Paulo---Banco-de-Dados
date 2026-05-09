@@ -69,3 +69,12 @@ https://github.com/Joao-Sepulveda04/Joao-Paulo---Banco-de-Dados/blob/main/Matric
 <img width="1919" height="1022" alt="image" src="https://github.com/user-attachments/assets/be74c119-68fd-4901-9d72-c1a7dbf3c201" />
 
 
+## DADOS ABERTOS SP (EMPREGO FORMAL) NO POWER BI - AULA 08/05/2026
+[EmpregoFormal_DadosAbertosSP.zip](https://github.com/user-attachments/files/27543978/EmpregoFormal_DadosAbertosSP.zip)
+
+<img width="1811" height="757" alt="image" src="https://github.com/user-attachments/assets/b2dbbe44-c5dd-4980-8604-6a7f5dfd8270" />
+
+Maior ano/mês: Fev/2025
+Menor ano/mês: Abr/2020
+Menor média: 2020
+
