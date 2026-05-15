@@ -78,3 +78,8 @@ Maior ano/mês: Fev/2025
 Menor ano/mês: Abr/2020
 Menor média: 2020
 
+
+## ICE CREAM (TEMPERATURE AND SALES) - AULA 14/05/2026
+[Ice Cream Sales - temperatures - João P.xlsx](https://github.com/user-attachments/files/27782156/Ice.Cream.Sales.-.temperatures.-.Joao.P.xlsx)
+
+<img width="1893" height="804" alt="image" src="https://github.com/user-attachments/assets/84375140-9603-4e72-933d-7a4d4782bdaa" />
