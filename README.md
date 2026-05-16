@@ -83,3 +83,12 @@ Menor média: 2020
 [Ice Cream Sales - temperatures - João P.xlsx](https://github.com/user-attachments/files/27782156/Ice.Cream.Sales.-.temperatures.-.Joao.P.xlsx)
 
 <img width="1893" height="804" alt="image" src="https://github.com/user-attachments/assets/84375140-9603-4e72-933d-7a4d4782bdaa" />
+
+
+## ICE CREAM (TEMPERATURE AND SALES) - REGRESSÃO LINEAR - AULA 15/05/2026
+https://github.com/Joao-Sepulveda04/Joao-Paulo---Banco-de-Dados/blob/main/An%C3%A1lise_regress%C3%A3o_linear_Ice_Cream.ipynb
+
+<img width="1831" height="850" alt="image" src="https://github.com/user-attachments/assets/aad677f8-8d77-4967-a756-cfaa5820f331" />
+
+## BEER CONSUMPTION IN SÃO PAULO - EXCEL E COLAB - AULA 15/05/2026
+
