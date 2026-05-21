@@ -91,4 +91,8 @@ https://github.com/Joao-Sepulveda04/Joao-Paulo---Banco-de-Dados/blob/main/An%C3%
 <img width="1831" height="850" alt="image" src="https://github.com/user-attachments/assets/aad677f8-8d77-4967-a756-cfaa5820f331" />
 
 ## BEER CONSUMPTION IN SÃO PAULO - EXCEL E COLAB - AULA 15/05/2026
+https://github.com/Joao-Sepulveda04/Joao-Paulo---Banco-de-Dados/blob/main/Beers_Consumption_pynb.ipynb
+
+<img width="1849" height="939" alt="image" src="https://github.com/user-attachments/assets/750ba765-9840-4950-8a2a-286e49992a6c" />
+
 
