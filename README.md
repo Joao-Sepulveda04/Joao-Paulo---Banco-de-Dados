@@ -96,6 +96,6 @@ https://github.com/Joao-Sepulveda04/Joao-Paulo---Banco-de-Dados/blob/main/Beers_
 <img width="1849" height="939" alt="image" src="https://github.com/user-attachments/assets/750ba765-9840-4950-8a2a-286e49992a6c" />
 
 ## ICE CREAM X BEER IN POWER BI - AULA 22/05/2026
-[Arquivos Excel Power BI.zip](https://github.com/user-attachments/files/28167061/Arquivos.Excel.Power.BI.zip)
+[Ice Cream x Cerveja - Power BI.zip](https://github.com/user-attachments/files/28371789/Ice.Cream.x.Cerveja.-.Power.BI.zip)
 
-<img width="1865" height="750" alt="image" src="https://github.com/user-attachments/assets/37d7c983-0b2e-4cb3-b06c-c2583b68ca4f" />
+
