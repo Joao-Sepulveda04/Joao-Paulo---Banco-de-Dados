@@ -95,13 +95,14 @@ https://github.com/Joao-Sepulveda04/Joao-Paulo---Banco-de-Dados/blob/main/Beers_
 
 <img width="1849" height="939" alt="image" src="https://github.com/user-attachments/assets/750ba765-9840-4950-8a2a-286e49992a6c" />
 
+
+## ICE CREAM X BEER IN POWER BI - AULA 22/05/2026
+[Ice Cream x Cerveja - Power BI.zip](https://github.com/user-attachments/files/28371789/Ice.Cream.x.Cerveja.-.Power.BI.zip)
+
+
 ## PROVA - 29/05/2026
 https://drive.google.com/drive/folders/1THh19OHbVHavYvMBPuzSWXxRRhBC0uQg
 
 <img width="1877" height="843" alt="image" src="https://github.com/user-attachments/assets/187c35d7-b5d6-4567-b34b-0f786dd3d207" />
-
-
-## ICE CREAM X BEER IN POWER BI - AULA 22/05/2026
-[Ice Cream x Cerveja - Power BI.zip](https://github.com/user-attachments/files/28371789/Ice.Cream.x.Cerveja.-.Power.BI.zip)
 
 
