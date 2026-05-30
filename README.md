@@ -106,3 +106,9 @@ https://drive.google.com/drive/folders/1THh19OHbVHavYvMBPuzSWXxRRhBC0uQg
 <img width="1877" height="843" alt="image" src="https://github.com/user-attachments/assets/187c35d7-b5d6-4567-b34b-0f786dd3d207" />
 
 
+
+
+
+
+## AT. JOARES
+[4º LISTA DE EXERCÍCIO para compensar aula - GPI-2026 - Respostas João Paulo R.Sepulveda.docx](https://github.com/user-attachments/files/28414108/4.LISTA.DE.EXERCICIO.para.compensar.aula.-.GPI-2026.-.Respostas.Joao.Paulo.R.Sepulveda.docx)
